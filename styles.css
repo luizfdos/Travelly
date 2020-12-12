@@ -142,7 +142,7 @@ nav ul {
 }
 
 .moving-cloud-2 {
-  top: 20%;
+  top: 15%;
   z-index: -1;
   opacity: 0.6;
   animation: cloudAnimation 3.5s infinite alternate ease-in-out;
